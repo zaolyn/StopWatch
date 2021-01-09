@@ -1,8 +1,10 @@
-package com.example.stopwatchmantul;
+package Faza.example.AhhMantap;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.AhhMantap.R;
 
 public class splashscreen extends AppCompatActivity {
 
